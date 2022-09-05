@@ -1,6 +1,7 @@
 # PensamentoComputacional-1D
 repositório para compartilhar trabalhos na disciplina de pensamento computacional
-
+<p>Lauana e Ana Luiza. (n:1 e 14)
+ 
 ## Romantismo
 
 Quem tivesse um amor, nesta noite de lua,
@@ -20,3 +21,4 @@ __Cecília Meireles__
 
 ![Isso é uma imagem](https://i.pinimg.com/564x/1a/27/d7/1a27d7e42f9a4973f98ac0e70da69724.jpg)
 
+@LizianeBugalski
