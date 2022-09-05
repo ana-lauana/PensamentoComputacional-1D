@@ -21,4 +21,4 @@ __Cecília Meireles__
 
 ![Isso é uma imagem](https://i.pinimg.com/564x/1a/27/d7/1a27d7e42f9a4973f98ac0e70da69724.jpg)
 
-@LizianeBugalski
+@LiziBugalski
